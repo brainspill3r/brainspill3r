@@ -3,7 +3,7 @@
 Hi, I'm Brainspill3r
 🧮 I've been coding in Go primarily for over 1 year
 🏗️ I work as a red teamer for a UK company and been in the cyber security industry for five years
-🦦🐍 My main focus is continued learning in Go but I've started Python as well. 
+🦦🐍 While my main focus remains on Go, I've also started learning Python. 
 My favorite project I've built so far is my bug bounty automation tool (hunt) in Go
 🖥️ I was a HackTheBox MVP UK ambassador between 2022-2024 
 🐻 I've taken the following courses on Boot.dev (Python & Go Course, Github & Docker, Kubernetes) 
